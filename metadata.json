@@ -1,0 +1,6 @@
+{
+  "name": "AWS URL Shortener - FastAPI & DynamoDB",
+  "description": "Proyecto universitario de acortador de URLs en la nube de AWS con FastAPI, DynamoDB, roles IAM y frontend Vanilla JS para S3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
